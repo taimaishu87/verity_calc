@@ -1,0 +1,884 @@
+[
+    {
+        "Callout": "tsc",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Square then dunk in Statue 3 \nGrab Circle then dunk in Statue 1 \nGrab Triangle then dunk in Statue 2 \nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Square then dunk in Statue 3\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Sphere",
+        "Statue2": "Prism",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Sphere",
+        "Statue2": "Prism",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Sphere",
+        "Statue2": "Prism",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Sphere",
+        "Statue2": "Prism",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Sphere",
+        "Statue2": "Prism",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Sphere",
+        "Statue2": "Prism",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 3\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 3\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Sphere",
+        "Statue2": "Sphere",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Sphere",
+        "Statue2": "Cube",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Sphere",
+        "Statue2": "Cylinder",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Sphere",
+        "Statue2": "Cylinder",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Sphere",
+        "Statue2": "Cylinder",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Sphere",
+        "Statue2": "Cylinder",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Sphere",
+        "Statue2": "Cylinder",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Sphere",
+        "Statue2": "Cylinder",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 2\nError: Invalid shape 's'"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cube",
+        "Statue2": "Sphere",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cube",
+        "Statue2": "Cone",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cube",
+        "Statue2": "Cone",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cube",
+        "Statue2": "Cone",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cube",
+        "Statue2": "Cone",
+        "Statue3": "Cone",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cube",
+        "Statue2": "Cone",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cube",
+        "Statue2": "Cone",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Prism",
+        "Statue2": "Sphere",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Prism",
+        "Statue2": "Sphere",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Prism",
+        "Statue2": "Sphere",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Prism",
+        "Statue2": "Sphere",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Prism",
+        "Statue2": "Sphere",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Prism",
+        "Statue2": "Sphere",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Prism",
+        "Statue2": "Prism",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Prism",
+        "Statue2": "Prism",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Prism",
+        "Statue2": "Prism",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Prism",
+        "Statue2": "Prism",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Prism",
+        "Statue2": "Prism",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Prism",
+        "Statue2": "Prism",
+        "Statue3": "Sphere",
+        "Solution": "Grab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Prism",
+        "Statue2": "Cone",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Prism",
+        "Statue2": "Cone",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 3\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Prism",
+        "Statue2": "Cone",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Prism",
+        "Statue2": "Cone",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Prism",
+        "Statue2": "Cone",
+        "Statue3": "Cylinder",
+        "Solution": ""
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Prism",
+        "Statue2": "Cone",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Prism",
+        "Statue2": "Cylinder",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Prism",
+        "Statue2": "Cylinder",
+        "Statue3": "Cone",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Prism",
+        "Statue2": "Cylinder",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Prism",
+        "Statue2": "Cylinder",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Prism",
+        "Statue2": "Cylinder",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Prism",
+        "Statue2": "Cylinder",
+        "Statue3": "Cone",
+        "Solution": ""
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cone",
+        "Statue2": "Cone",
+        "Statue3": "Cube",
+        "Solution": "Grab Triangle then dunk in Statue 1 \nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cone",
+        "Statue2": "Cone",
+        "Statue3": "Cube",
+        "Solution": "Grab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cone",
+        "Statue2": "Cone",
+        "Statue3": "Cube",
+        "Solution": "Grab Square then dunk in Statue 3\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cone",
+        "Statue2": "Cone",
+        "Statue3": "Cube",
+        "Solution": "Grab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cone",
+        "Statue2": "Cone",
+        "Statue3": "Cube",
+        "Solution": "Grab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cone",
+        "Statue2": "Cone",
+        "Statue3": "Cube",
+        "Solution": "Grab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cone",
+        "Statue2": "Cube",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cone",
+        "Statue2": "Cube",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 1"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cone",
+        "Statue2": "Cube",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cone",
+        "Statue2": "Cube",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cone",
+        "Statue2": "Cube",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cone",
+        "Statue2": "Cube",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cone",
+        "Statue2": "Cylinder",
+        "Statue3": "Prism",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 2\n\n"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cone",
+        "Statue2": "Cylinder",
+        "Statue3": "Prism",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cone",
+        "Statue2": "Cylinder",
+        "Statue3": "Prism",
+        "Solution": ""
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cone",
+        "Statue2": "Cylinder",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cone",
+        "Statue2": "Cylinder",
+        "Statue3": "Prism",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cone",
+        "Statue2": "Cylinder",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cone",
+        "Statue2": "Prism",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 1\nGrab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 2\n"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cone",
+        "Statue2": "Prism",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cone",
+        "Statue2": "Prism",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cone",
+        "Statue2": "Prism",
+        "Statue3": "Cylinder",
+        "Solution": ""
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cone",
+        "Statue2": "Prism",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cone",
+        "Statue2": "Prism",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cylinder",
+        "Statue2": "Cone",
+        "Statue3": "Prism",
+        "Solution": ""
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cylinder",
+        "Statue2": "Cone",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cylinder",
+        "Statue2": "Cone",
+        "Statue3": "Prism",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cylinder",
+        "Statue2": "Cone",
+        "Statue3": "Prism",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cylinder",
+        "Statue2": "Cone",
+        "Statue3": "Prism",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cylinder",
+        "Statue2": "Cone",
+        "Statue3": "Prism",
+        "Solution": "Grab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 2\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cylinder",
+        "Statue2": "Prism",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cylinder",
+        "Statue2": "Prism",
+        "Statue3": "Cone",
+        "Solution": ""
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cylinder",
+        "Statue2": "Prism",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Circle then dunk in Statue 3\nGrab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cylinder",
+        "Statue2": "Prism",
+        "Statue3": "Cone",
+        "Solution": "Grab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cylinder",
+        "Statue2": "Prism",
+        "Statue3": "Cone",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 2\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cylinder",
+        "Statue2": "Prism",
+        "Statue3": "Cone",
+        "Solution": "Grab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cylinder",
+        "Statue2": "Cylinder",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 2"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cylinder",
+        "Statue2": "Cylinder",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 2"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cylinder",
+        "Statue2": "Cylinder",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cylinder",
+        "Statue2": "Cylinder",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 2\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cylinder",
+        "Statue2": "Cylinder",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Square then dunk in Statue 2\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 3"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cylinder",
+        "Statue2": "Cylinder",
+        "Statue3": "Sphere",
+        "Solution": "Grab Triangle then dunk in Statue 3\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "tsc",
+        "Statue1": "Cylinder",
+        "Statue2": "Sphere",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3"
+    },
+    {
+        "Callout": "tcs",
+        "Statue1": "Cylinder",
+        "Statue2": "Sphere",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 3"
+    },
+    {
+        "Callout": "stc",
+        "Statue1": "Cylinder",
+        "Statue2": "Sphere",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 3\nGrab Square then dunk in Statue 1\nGrab Triangle then dunk in Statue 2"
+    },
+    {
+        "Callout": "sct",
+        "Statue1": "Cylinder",
+        "Statue2": "Sphere",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 1"
+    },
+    {
+        "Callout": "cst",
+        "Statue1": "Cylinder",
+        "Statue2": "Sphere",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Circle then dunk in Statue 1"
+    },
+    {
+        "Callout": "cts",
+        "Statue1": "Cylinder",
+        "Statue2": "Sphere",
+        "Statue3": "Cylinder",
+        "Solution": "Grab Triangle then dunk in Statue 2\nGrab Square then dunk in Statue 3\nGrab Circle then dunk in Statue 1\nGrab Triangle then dunk in Statue 2"
+    }
+]
